@@ -114,7 +114,7 @@ http://str24.l9574.com/519.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Bangladesh" ,Channel S Ch-2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV",JAGO_CHANNEL S [UK] [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Bangladesh", Channel S Ch-3
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/ccn-bangla.jpg" group-title="Bangladesh",CNN Bangla
@@ -600,6 +600,9 @@ http://tvflixback0.hopto.org/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi", Sony SAB Ch-3
 http://208.86.19.21/702.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi", Sony SAB Ch-4
+http://195.201.82.32:5001/play/a02y
+
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/SONY-TVe4842c84768cd5c4.png" group-title="Hindi" ,Sony TV Ch-1
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -626,6 +629,9 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD Ch-5
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD Ch-6
+http://195.201.82.32:5001/play/a02x
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="Hindi",Sony Max (2) Ch-1
 http://watchindia.net:8880/live/33253/72963/2024.m3u8
@@ -669,6 +675,9 @@ http://ablivetv.webd.pro/star7/star7.php?id=48107&e=.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/star-gold12a825efcd1494fb.jpg" group-title="Hindi",STAR Gold Ch-4
 http://208.86.19.21/717.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/star-gold12a825efcd1494fb.jpg" group-title="Hindi",STAR Gold Ch-5
+http://195.201.82.32:5001/play/a028
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", STAR Gold (2)
 http://208.86.19.21:80/709.stream/index.m3u8
 
@@ -683,6 +692,9 @@ http://208.86.19.21:80/709.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi", STAR Gold Select Ch-4
 http://208.86.19.21/709.stream/index.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi", STAR Gold Select Ch-5
+http://195.201.82.32:5001/play/a029
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",UTV Action Ch-1
 http://103.131.212.138:8000/play/a00k/index.m3u8
@@ -891,6 +903,9 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/sony-pix.jpg" group-title="English",Sony Pix Ch-1
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/sony-pix.jpg" group-title="English",Sony Pix Ch-2
+http://195.201.82.32:5001/play/a02o
+
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/star-moviesb14c4031c974d09e.jpg" group-title="English",Star Movies Ch-1
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -900,8 +915,14 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d22590
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/star-moviesb14c4031c974d09e.jpg" group-title="English",Star Movies Ch-3
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-#EXTINF:-1 tvg-logo="" group-title="English",Star Movies Select HD
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/star-moviesb14c4031c974d09e.jpg" group-title="English",Star Movies Ch-4
+http://195.201.82.32:5001/play/a003
+
+#EXTINF:-1 tvg-logo="" group-title="English",Star Movies Select Ch-1
 http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="" group-title="English",Star Movies Select Ch-2
+http://195.201.82.32:5001/play/a005
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/english/Star_World_HD.png" group-title="English",Star World HD Ch-1
 http://watchindia.net:8880/live/33253/72963/2191.m3u8
@@ -938,6 +959,9 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Documentary", BBC Earth Ch-3
 ​http://183.178.58.115:8022/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Documentary", BBC Earth Ch-4
+http://195.201.82.32:5001/play/a02w
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/bbc-lifestyle.jpg" group-title="Documentary" ,BBC Lifestyle Ch-1
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
@@ -986,6 +1010,8 @@ http://rv.flysat.live:80/ams/ams123/83731
 #EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary" ,Nat Geo Bangla Ch-3
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
+#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary" ,Nat Geo Bangla Ch-4
+http://195.201.82.32:5001/play/a00x
 
 #EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary" ,Nat Geo Wild Ch-1
 http://103.81.104.118/hls/wild.m3u8
@@ -1108,8 +1134,11 @@ http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony Six Ch-1
 http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony Six Ch-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony Six Ch-2
 http://208.86.19.21/740.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony Six Ch-3
+http://195.201.82.32:5001/play/a030
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
