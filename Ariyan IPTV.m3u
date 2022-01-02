@@ -192,8 +192,11 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh",Ekushe TV Ch-3
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Gazi-TV.jpg" group-title="Bangladesh",Gazi TV
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Gazi-TV.jpg" group-title="Bangladesh",Gazi TV Ch-1
 https://piratesiptv.shortcm.li/gazi.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Gazi-TV.jpg" group-title="Bangladesh",Gazi TV Ch-2
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1108062974_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQxMTMzOTAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQxMTI2OTAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9bE1EZHhneXNzWkRYd2hOcXg0OEVnZ01Dd2Y2VUlWOW03S3JOYUJiejh3VT0=.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/gaan-bangla.png" group-title="Bangladesh",Gaan Bangla Ch-1
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
@@ -1181,6 +1184,9 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports Ch-2
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports Ch-3
+http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="Sports",Ten Sports Ch-1
 http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
